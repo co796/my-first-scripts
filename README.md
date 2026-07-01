@@ -1,18 +1,31 @@
-# Python Automation Scripts
+# Python Automation Portfolio
 
-Automate your routine tasks with Python.
+Python scripts for automation, crypto monitoring and API integrations.
 
-## What these scripts do:
-* File processing
-* Data manipulation
-* Crypto price monitoring
-* Automation of repetitive tasks
-* API data fetching
+## Services
 
-## How to run:
-To run any script, use the following command in your terminal:
+- Python automation
+- Data processing
+- API integrations
+- Crypto monitoring
+- Custom Python scripts
 
-python script_name.py
-## How to run:
-1. pip install -r requirements.txt
-2. python crypto_monitor.py
+## Demo
+
+![Demo](result.png)
+
+## Technologies
+
+- Python
+- Requests
+- CCXT
+
+## Installation
+pip install -r requirements.txt
+
+## Run
+python crypto_monitor.py
+
+## Contact
+
+Available for custom Python automation projects.
