@@ -1,10 +1,15 @@
-# My Automation Portfolio
+# Python Automation Scripts
 
-Python scripts for automation, data processing, and DeFi tools.
+Automate your routine tasks with Python.
 
-### Projects
-- Crypto Price Monitor: Real-time tracking using CCXT.
-- Data Automation: Scripts for processing and analyzing data.
+## What these scripts do:
+* File processing
+* Data manipulation
+* Crypto price monitoring
+* Automation of repetitive tasks
+* API data fetching
 
-### Contact
-- Ready for collaboration. DM for custom scripts.
+## How to run:
+To run any script, use the following command in your terminal:
+
+python script_name.py
